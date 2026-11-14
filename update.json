@@ -1,6 +1,6 @@
 {
   "versionCode": 32,
   "versionName": "0.10.0",
-  "apkUrl": "https://www.dropbox.com/scl/fi/gkkq3p5ib3pl65couxuyd/shield-aura-v0.10.0-debug.apk",
+  "apkUrl": "https://dl.dropboxusercontent.com/scl/fi/gkkq3p5ib3pl65couxuyd/shield-aura-v0.10.0-debug.apk",
   "notes": "Forced in-app updates. The app now checks for a new build and offers to install it."
 }
