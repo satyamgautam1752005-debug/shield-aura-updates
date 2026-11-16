@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "0.11.0",
-  "apkUrl": "https://github.com/satyamgautam1752005-debug/shield-aura-updates/releases/download/v0.11.0/shield-aura-v0.11.0-debug.apk",
-  "notes": "Update checks now run every time the app opens, new releases appear at once, and builds no longer fill the account's storage."
+  "versionCode": 34,
+  "versionName": "0.11.1",
+  "apkUrl": "https://github.com/satyamgautam1752005-debug/shield-aura-updates/releases/download/v0.11.1/shield-aura-v0.11.1-debug.apk",
+  "notes": "Charger protection and snatch detection now work on their own, even when Phone Protection is off."
 }
