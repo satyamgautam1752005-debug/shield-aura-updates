@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "0.11.5",
-  "apkUrl": "https://github.com/satyamgautam1752005-debug/shield-aura-updates/releases/download/v0.11.5/shield-aura-v0.11.5-debug.apk",
-  "notes": "About the App now carries the full professional description, in English and Hindi."
+  "versionCode": 39,
+  "versionName": "0.12.0",
+  "apkUrl": "https://github.com/satyamgautam1752005-debug/shield-aura-updates/releases/download/v0.12.0/shield-aura-v0.12.0-debug.apk",
+  "notes": "Forgot PIN: reset the app PIN after unlocking your phone, then set a new one."
 }
