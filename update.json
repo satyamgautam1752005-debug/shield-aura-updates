@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "0.11.3",
-  "apkUrl": "https://github.com/satyamgautam1752005-debug/shield-aura-updates/releases/download/v0.11.3/shield-aura-v0.11.3-debug.apk",
-  "notes": "The status line now names only the protection modes that are actually switched on."
+  "versionCode": 37,
+  "versionName": "0.11.4",
+  "apkUrl": "https://github.com/satyamgautam1752005-debug/shield-aura-updates/releases/download/v0.11.4/shield-aura-v0.11.4-debug.apk",
+  "notes": "About now describes the app for every user, and the first-run description is available in Hindi."
 }
