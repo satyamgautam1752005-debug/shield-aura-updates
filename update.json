@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "0.11.1",
-  "apkUrl": "https://github.com/satyamgautam1752005-debug/shield-aura-updates/releases/download/v0.11.1/shield-aura-v0.11.1-debug.apk",
-  "notes": "Charger protection and snatch detection now work on their own, even when Phone Protection is off."
+  "versionCode": 35,
+  "versionName": "0.11.2",
+  "apkUrl": "https://github.com/satyamgautam1752005-debug/shield-aura-updates/releases/download/v0.11.2/shield-aura-v0.11.2-debug.apk",
+  "notes": "Test Security now plays the warning and the alarm properly, and charger protection works even when Phone Protection is off."
 }
