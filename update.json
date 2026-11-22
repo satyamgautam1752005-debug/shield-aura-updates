@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "0.14.3",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.14.3-debug.apk",
-  "notes": "Choosing Yes opens the disability list at once, with no extra step and no Save."
+  "versionCode": 49,
+  "versionName": "0.14.4",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.14.4-debug.apk",
+  "notes": "One disability type, chosen and the list closes at once."
 }
