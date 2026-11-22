@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "0.14.1",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.14.1-debug.apk",
-  "notes": "Account creation and sign in on first run, and a Privacy Policy paragraph about feedback contact."
+  "versionCode": 47,
+  "versionName": "0.14.2",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.14.2-debug.apk",
+  "notes": "The disability list opens as a picker, so the Yes you pressed stays where it is."
 }
