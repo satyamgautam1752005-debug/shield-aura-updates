@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "0.15.4",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.15.4-debug.apk",
-  "notes": "The description now says the truth about accounts, and a claims checklist keeps it honest."
+  "versionCode": 55,
+  "versionName": "0.16.0",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.16.0-debug.apk",
+  "notes": "Log out and Delete account, each behind its own confirmation."
 }
