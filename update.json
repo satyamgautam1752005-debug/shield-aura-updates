@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "0.16.0",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.16.0-debug.apk",
-  "notes": "Log out and Delete account, each behind its own confirmation."
+  "versionCode": 56,
+  "versionName": "0.16.1",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.16.1-debug.apk",
+  "notes": "Cancel now sits at the very end of More Options, after Log out and Delete account."
 }
