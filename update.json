@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "0.12.1",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.12.1-debug.apk",
-  "notes": "New PINs must be at least six digits, wrong PIN attempts pause with a growing wait, and the boot receiver is tightened."
+  "versionCode": 41,
+  "versionName": "0.12.2",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.12.2-debug.apk",
+  "notes": "Change PIN now has a Forgot PIN option, confirmed with your phone's own lock."
 }
