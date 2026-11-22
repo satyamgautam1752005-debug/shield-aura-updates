@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "0.12.3",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.12.3-debug.apk",
-  "notes": "Fingerprint and PIN now appear as options, with the PIN field opening only when chosen, and a Cancel button."
+  "versionCode": 43,
+  "versionName": "0.12.4",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.12.4-debug.apk",
+  "notes": "The app's own unlock screen now shows fingerprint and PIN as options, with Forgot PIN and Cancel."
 }
