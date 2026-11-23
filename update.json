@@ -1,6 +1,6 @@
 {
-  "versionCode": 63,
-  "versionName": "0.19.3",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.19.3-debug.apk",
-  "notes": "The five minute emergency rule, and the grain-by-grain audit written down."
+  "versionCode": 64,
+  "versionName": "0.20.0",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.20.0-debug.apk",
+  "notes": "Location in emergency alerts, asked for only when you tick the box, and a lockout against repeated sign in attempts."
 }
