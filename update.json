@@ -1,6 +1,6 @@
 {
-  "versionCode": 64,
-  "versionName": "0.20.0",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.20.0-debug.apk",
-  "notes": "Location in emergency alerts, asked for only when you tick the box, and a lockout against repeated sign in attempts."
+  "versionCode": 65,
+  "versionName": "0.21.0",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.21.0-debug.apk",
+  "notes": "Privacy Policy and Terms rewritten and versioned, and the app's code obfuscated."
 }
