@@ -1,6 +1,6 @@
 {
-  "versionCode": 66,
-  "versionName": "0.21.1",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.21.1-debug.apk",
-  "notes": "Snatch protection can now actually fire: faster sensor readings and thresholds a real grab can reach."
+  "versionCode": 67,
+  "versionName": "0.21.2",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.21.2-debug.apk",
+  "notes": "A shaken phone is no longer mistaken for a snatched phone."
 }
