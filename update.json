@@ -1,6 +1,6 @@
 {
-  "versionCode": 68,
-  "versionName": "0.21.3",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.21.3-debug.apk",
-  "notes": "Protection now comes back by itself after a restart, with a watchdog that keeps checking."
+  "versionCode": 69,
+  "versionName": "0.21.4",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.21.4-debug.apk",
+  "notes": "The emergency screen now says when alerts cannot be sent: no account, or a contact with only a mobile number."
 }
