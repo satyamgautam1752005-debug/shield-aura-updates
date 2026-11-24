@@ -1,6 +1,6 @@
 {
-  "versionCode": 69,
-  "versionName": "0.21.4",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.21.4-debug.apk",
-  "notes": "The emergency screen now says when alerts cannot be sent: no account, or a contact with only a mobile number."
+  "versionCode": 71,
+  "versionName": "0.21.6",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.21.6-debug.apk",
+  "notes": "Charger protection now fires when the charger is pulled out, not when it is plugged in. Snatch detection also rewritten."
 }
