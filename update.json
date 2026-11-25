@@ -1,6 +1,6 @@
 {
-  "versionCode": 72,
-  "versionName": "0.22.0",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.22.0-debug.apk",
-  "notes": "The security review acted on: PIN lockout wired, unlock before settings screens, fail-closed sign in, real account deletion."
+  "versionCode": 74,
+  "versionName": "0.23.1",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.23.1-debug.apk",
+  "notes": "Privacy Policy and Terms rewritten with clauses and sub-clauses; the hash signs are gone."
 }
