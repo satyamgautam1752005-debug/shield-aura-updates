@@ -1,6 +1,6 @@
 {
-  "versionCode": 79,
-  "versionName": "0.27.0",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.27.0-debug.apk",
-  "notes": "The countdown ticks again, one tick every second, so the wait before the alarm is audible."
+  "versionCode": 81,
+  "versionName": "0.28.1",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.28.1-debug.apk",
+  "notes": "Every protection switch now says out loud that it was switched on or off, in English or Hindi."
 }
