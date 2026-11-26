@@ -1,6 +1,6 @@
 {
-  "versionCode": 84,
-  "versionName": "0.29.2",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.29.2-debug.apk",
-  "notes": "The fingerprint now says Verification successful, and says when the sensor itself cannot work."
+  "versionCode": 85,
+  "versionName": "0.30.0",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.30.0-debug.apk",
+  "notes": "Phone protection now announces itself after you choose a level, and says which level."
 }
