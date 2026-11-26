@@ -1,6 +1,6 @@
 {
-  "versionCode": 85,
-  "versionName": "0.30.0",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.30.0-debug.apk",
-  "notes": "Phone protection now announces itself after you choose a level, and says which level."
+  "versionCode": 86,
+  "versionName": "0.31.0",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.31.0-debug.apk",
+  "notes": "A hand is not a table: the phone must stop changing direction, not merely go quiet, before a lift counts."
 }
