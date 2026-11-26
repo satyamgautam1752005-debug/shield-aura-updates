@@ -1,6 +1,6 @@
 {
-  "versionCode": 86,
-  "versionName": "0.31.0",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.31.0-debug.apk",
-  "notes": "A hand is not a table: the phone must stop changing direction, not merely go quiet, before a lift counts."
+  "versionCode": 87,
+  "versionName": "0.32.0",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.32.0-debug.apk",
+  "notes": "A lift must now start from a phone that was actually resting, so shaking it in the hand no longer fires."
 }
