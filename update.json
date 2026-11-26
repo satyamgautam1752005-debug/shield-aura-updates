@@ -1,6 +1,6 @@
 {
-  "versionCode": 78,
-  "versionName": "0.26.0",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.26.0-debug.apk",
-  "notes": "Pickup protection is armed the moment the phone is put down, not ten seconds later."
+  "versionCode": 79,
+  "versionName": "0.27.0",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.27.0-debug.apk",
+  "notes": "The countdown ticks again, one tick every second, so the wait before the alarm is audible."
 }
