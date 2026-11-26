@@ -1,6 +1,6 @@
 {
-  "versionCode": 75,
-  "versionName": "0.24.0",
-  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.24.0-debug.apk",
-  "notes": "Built for Android 16 (API 36), which Google Play now requires for new apps and updates."
+  "versionCode": 77,
+  "versionName": "0.25.1",
+  "apkUrl": "https://raw.githubusercontent.com/satyamgautam1752005-debug/shield-aura-updates/main/builds/shield-aura-v0.25.1-debug.apk",
+  "notes": "Pickup detection fixed: the ninety second blind spot is gone, and the home screen now says whether a lift will count."
 }
